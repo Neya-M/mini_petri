@@ -1,5 +1,7 @@
 # Mini Petri
 
+<img alt="render of mini petri with case" src="https://cdn.hackclub.com/019ebd9e-28c0-7a16-b5fd-40f4e45ab089/render.png" />
+
 Mini Petri is a simulator that runs Conway's game of life. I got this idea during a particularly boring class when I wanted something satisfying to look at.
 
 ### Highlights
@@ -10,9 +12,13 @@ Mini Petri is a simulator that runs Conway's game of life. I got this idea durin
 - portable and pocket sized (8x13x5 cm)
 
 Here is a banana for scale.
-[banana top, side views]
+
+<img alt="banana scale" src="https://cdn.hackclub.com/019ebd9e-2131-7403-8f3b-dd07944d9c85/banana_scale_top.png" />
+
 
 ## Build your own
+
+<img alt="render of mini petri pcb" src="https://cdn.hackclub.com/019ebd9e-238c-7ad9-8462-db0403a8e648/pcb_render.png" />
 
 Want a Mini Petri? Download the files in the "build" folder. Order the board with PCB.zip. The case has 3d models in 2 different formats, STL and STEP. Use screws to attach the lid to the case! Load main.py onto the Xiao. That's it :)
 
@@ -24,8 +30,24 @@ First, insert batteries and turn it on with the switch.
 
 There are 9 buttons in a 3x3 arrangement for editing the starting positions and playing the simulation.
 
-[UX Layout.png]
+<img alt="diagram of how it's used" src="https://cdn.hackclub.com/019ebd9e-269b-7182-b7a7-4ae003a810a8/ux_layout.png" />
 
-## Images
 
-[insert the images]
+## Conway's game of life
+
+Conway's game of life is a simulation that uses a simple set of rules to create interesting patterns.
+
+The rules:
+
+each cell has 9 neighbors. A filled in or lit up cell is alive (depending on what you are using to simulate it).
+
+each generation, cells are born and die based on their neighbors. 
+
+A living cell with less than 2 living neighbors dies the next generation. If it has 2-3 living neighbors, it survives. If it has more than 3 living neighbors, it dies, as if by overpopulation.
+
+A dead cell can be born if it has exactly 3 living neighbors, as if by reproduction.
+
+With time, you can create really interesting structures such as "spaceships" that glide on indefinetly, "still life" structures where cells are never born and die, and "wires" that can transfer signals in the form of cells.
+
+## Wiring
+<img alt="banana scale" src="https://cdn.hackclub.com/019ebd9e-2ac2-7a7e-a371-bc477feb3332/schematic.png" />
