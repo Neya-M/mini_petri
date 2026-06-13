@@ -20,9 +20,9 @@ Here is a banana for scale.
 
 <img alt="render of mini petri pcb" src="https://cdn.hackclub.com/019ebd9e-238c-7ad9-8462-db0403a8e648/pcb_render.png" />
 
-Want a Mini Petri? Download the files in the "build" folder. Order the board with PCB.zip. The case has 3d models in 2 different formats, STL and STEP. Use screws to attach the lid to the case! Load main.py onto the Xiao. That's it :)
+Want a Mini Petri? Download the files in the "build" folder. Order the board with gerbers.zip. The case has 3d models in 2 different formats, STL and STEP. Use screws to attach the lid to the case. Load main.py onto the Xiao. That's it :)
 
-I will add an assembly guide once i build it myself. 
+I will add a more detailed assembly guide once I build it myself. 
 
 ## How to use
 
@@ -49,5 +49,13 @@ A dead cell can be born if it has exactly 3 living neighbors, as if by reproduct
 
 With time, you can create really interesting structures such as "spaceships" that glide on indefinetly, "still life" structures where cells are never born and die, and "wires" that can transfer signals in the form of cells.
 
+<img width="156" height="126" alt="image" src="https://github.com/user-attachments/assets/d1a3b115-fcda-4b54-b62c-3f818eecaa61" />
+<img width="162" height="163" alt="image" src="https://github.com/user-attachments/assets/01b6abea-c71a-4bc5-aa15-bf2e63a4a877" />
+<img width="156" height="155" alt="image" src="https://github.com/user-attachments/assets/889a8f63-9751-417f-aef5-d04aec274d68" />
+
 ## Wiring
 <img alt="banana scale" src="https://cdn.hackclub.com/019ebd9e-2ac2-7a7e-a371-bc477feb3332/schematic.png" />
+
+## Other
+
+find the onshape file here: https://cad.onshape.com/documents/10df214650d10753392c4f94/w/a985103637e720fab81ebfaa/e/7306bce063d86ed0c220e238
