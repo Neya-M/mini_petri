@@ -59,3 +59,13 @@ With time, you can create really interesting structures such as "spaceships" tha
 ## Other
 
 find the onshape file here: https://cad.onshape.com/documents/10df214650d10753392c4f94/w/a985103637e720fab81ebfaa/e/7306bce063d86ed0c220e238
+
+Zine:
+<img alt="fallout zine" src="https://cdn.hackclub.com/019eccb8-3240-7ec4-8610-0f833d99b25c/zine.png" />
+
+Left page:
+<img alt="fallout zine" src="https://cdn.hackclub.com/019eccba-d997-7439-a8dc-3594c55dce50/left_page.png" />
+
+Right page:
+<img alt="fallout zine" src="https://cdn.hackclub.com/019eccba-dc19-7d5d-ae9a-f11daacda3b1/right_page.png" />
+

@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "GameOfLife.kicad_pro",
+    "filename": "MiniPetri.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../build/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "GameOfLife1.step",
