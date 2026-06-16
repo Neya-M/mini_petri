@@ -222,12 +222,14 @@ def toggle():
 
 
 def update():
-    matrix.fill(False)
-    for row in range(8):
-        for col in range(8):
-            if curr_grid[row][col] == 1:
-                matrix.pixel(col, row, True)
-    matrix.show()
+    while True:
+        matrix.fill(False)
+        for row in range(8):
+            for col in range(8):
+                if curr_grid[row][col] == 1:
+                    matrix.pixel(col, row, True)
+        matrix.show()
+        time.sleep(0.1)
 
 
 while True:
