@@ -2,7 +2,7 @@
 
 <img alt="render of mini petri with case" src="https://cdn.hackclub.com/019ebd9e-28c0-7a16-b5fd-40f4e45ab089/render.png" />
 
-Mini Petri is a simulator that runs Conway's game of life. I got this idea during a particularly boring class when I wanted something satisfying to look at.
+Mini Petri is a device that simulates Conway's game of life. I got this idea during a particularly boring class when I wanted something satisfying to look at.
 
 ### Highlights
 
