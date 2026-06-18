@@ -58,6 +58,8 @@ With time, you can create really interesting structures such as "spaceships" tha
 
 ## Other
 
+Fallout reviewers: I made 2 versions of the zine, one for the left page and one for the right page! Hope that doesn't mess up something :')
+
 find the onshape file here: https://cad.onshape.com/documents/10df214650d10753392c4f94/w/a985103637e720fab81ebfaa/e/7306bce063d86ed0c220e238
 
 Zine:
