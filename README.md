@@ -1,6 +1,6 @@
 # Mini Petri
 
-<img alt="render of mini petri with case" src="https://cdn.hackclub.com/019ebd9e-28c0-7a16-b5fd-40f4e45ab089/render.png" />
+<img alt="render of mini petri with case" src="https://cdn.hackclub.com/019f012c-8be1-7340-91fd-4b7bd4e3d4fc/render_small.png" />
 
 Mini Petri is a device that simulates Conway's game of life. I got this idea during a particularly boring class when I wanted something satisfying to look at.
 
@@ -20,7 +20,7 @@ Here is a banana for scale.
 
 <img alt="render of mini petri pcb" src="https://cdn.hackclub.com/019ebd9e-238c-7ad9-8462-db0403a8e648/pcb_render.png" />
 
-Want a Mini Petri? Download the files in the "build" folder. Order the board with gerbers.zip. The case has 3d models in 2 different formats, STL and STEP. Use screws to attach the lid to the case. Load main.py onto the Xiao. That's it :)
+Want a Mini Petri? Download the files in the "build" folder. Order the board with gerbers.zip. The case has 3d models in 2 different formats, STL and STEP. Put in the pushers on the underside of the lid and add the keycaps from the top. Use screws to attach the lid to the case. Load main.py onto the Xiao. That's it :)
 
 I will add a more detailed assembly guide once I build it myself. 
 
@@ -54,20 +54,12 @@ With time, you can create really interesting structures such as "spaceships" tha
 <img width="156" height="155" alt="image" src="https://github.com/user-attachments/assets/889a8f63-9751-417f-aef5-d04aec274d68" />
 
 ## Wiring
-<img alt="banana scale" src="https://cdn.hackclub.com/019ebd9e-2ac2-7a7e-a371-bc477feb3332/schematic.png" />
+<img alt="schematic" src="https://cdn.hackclub.com/019ebd9e-2ac2-7a7e-a371-bc477feb3332/schematic.png" />
 
 ## Other
-
-Fallout reviewers: I made 2 versions of the zine, one for the left page and one for the right page! Hope that doesn't mess up something :')
 
 find the onshape file here: https://cad.onshape.com/documents/10df214650d10753392c4f94/w/a985103637e720fab81ebfaa/e/7306bce063d86ed0c220e238
 
 Zine:
-<img alt="fallout zine" src="https://cdn.hackclub.com/019eccb8-3240-7ec4-8610-0f833d99b25c/zine.png" />
-
-Left page:
-<img alt="fallout zine" src="https://cdn.hackclub.com/019eccba-d997-7439-a8dc-3594c55dce50/left_page.png" />
-
-Right page:
-<img alt="fallout zine" src="https://cdn.hackclub.com/019eccba-dc19-7d5d-ae9a-f11daacda3b1/right_page.png" />
+<img alt="fallout zine" src="https://cdn.hackclub.com/019f012c-965d-7336-b8ac-6c0bbb8ace20/zine.png" />
 
